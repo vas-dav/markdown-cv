@@ -20,8 +20,13 @@ different modern technologies
 
 ## Skills
 
-Javascript, React.js, React Native, Python, Java, Swift/Objective C, Node.js,
-Docker, Kubernetes, AWS, Google Cloud
+__Programming Languages__: Javascript, Typescript, Python, Java, Swift, Objective
+  C, C++, Bash
+
+__Frameworks/Libraries__: React.js, React Native, Django, Next.js, Express.js,
+  Serverless, Amplify
+
+__Technologies__: Docker, Kubernetes, AWS, Google Cloud, Cloud Formation
 
 ## Occupation
 
@@ -91,6 +96,24 @@ __Tampere University__, Master's Degree
 __Tampere University__, Bachelor's Degree
 
 - Major: Information and Communication Technologies
+
+## References
+
+__Tero Lappalainen__: Co-Founder, Bankify Ltd
+
+- tero@bankify.io
+
+__Timo Lappalainen__: Co-Founder, True Diamonds Ltd
+
+- timo.lappalainen@truediamonds.fi
+
+__Mikko Virkkilä__: Co-Founder/CTO, Steerpath Ltd
+
+- mikko.virkkila@steerpath.com
+
+__Nguyen Hoang Quang Trung__: Co-Founder/CEO, Reactron Technologies Ltd
+
+- trung.nguyen@reactron.dev
  
 <!--## Awards
 
