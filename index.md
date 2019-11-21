@@ -1,48 +1,98 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jarvis Luong's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jarvis Luong
+Senior DevOps Engineer, Mobile Developer, Web Developer 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:jarvis.luong@reactron.dev">jarvis.luong@reactron.dev</a>
+| <a href="https://www.linkedin.com/in/jarvisluong/">LinkedIn</a>
 </div>
 
 
-## Currently
+## Who I am
 
-Standing on the shoulders of giants
+Programming has piqued my interest since I was 10 years old. I was soon exposed
+to the professional working environment since I was 17 years old, during which I have been
+having the responsibility in various development projects involving
+different modern technologies
 
-### Specialized in
+## Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Javascript, React.js, React Native, Python, Java, Swift/Objective C, Node.js,
+Docker, Kubernetes, AWS, Google Cloud
 
+## Occupation
 
-### Research interests
+`Sep 2019 - Now`
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+__Reactron Technologies Ltd__, Co-Founder, CTO
 
+- We are the Technical Consultant specialized in DevOps, Mobile Development and Web Development.
+- Develop a product in-house using the ​latest serverless technologies: Kubernetes, Cloud Formation for provisioning S3 bucket and related functions.
+
+`Jul 2019 - Now`
+
+__Steerpath Ltd__, Full-stack Consultant
+
+- Create, maintain the serverless infrastructure of their new mobile
+  application using the amplify framework
+- Customize the Cloud Formation template and provision different environment across
+  different AWS regions.
+- Coach in-house developers with the React Native technology
+- Develop the cross-platform SDK from the native mobile SDKs.
+
+`Nov 2017 - Now`
+
+__Bankify Ltd__, Technical Lead / Lead DevOps Engineer
+
+- Creat, maintain the CI/CD pipeline for all of the microservices, using the Kubernetes tool across different cloud providers (Google Cloud and AWS)
+- Lead a full-stack development team to create cross-platform mobile applications, web applications.
+
+`Apr 2019 - Sep 2019`
+
+__react-navigation__, OSS Collaborator
+
+- react-navigation is the most widely-used navigation library used in React
+  Native applications. I am responsible for maintaining the documentation of the
+  library as well as making contributions to the library's source code.
+
+`Aug 2017 - Oct 2017`
+
+__Wibe Academy Ltd__, Mobile Developer
+
+- I used ReactJS and React Native to develop an internal project for the
+  company.
+
+`Nov 2016 - Jul 2017`
+
+__Lifesup Ltd__, Front-end Developer
+
+- I was one of the key team member of the company, mainly in charge of building
+  and mainting the web and mobile application.
+
+`May 2016 - Jul 2016`
+
+__International Vietnam Model United Nations__, Head of Front End Development
+
+- I was the lead member of the organization team, creating and maintaining the website
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Aug 2019 - Now`
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+__Tampere University__, Master's Degree
 
-- Sizar
+- Major: Computer Software - Web & Cloud
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Aug 2016 - May 2019`
 
-- Fellow
+__Tampere University__, Bachelor's Degree
 
-
-
-## Awards
+- Major: Information and Communication Technologies
+ 
+<!--## Awards
 
 `2012`
 President, *Royal Society*, London, UK
@@ -55,7 +105,7 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+<!-- ### Journals
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -67,20 +117,11 @@ etc. etc. etc.
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2012` -->
+<!-- Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 -->
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
