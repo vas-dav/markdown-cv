@@ -7,7 +7,7 @@ Senior DevOps Engineer, Mobile Developer, Web Developer
 
 <div id="webaddress">
 <a href="mailto:jarvis.luong@reactron.dev">jarvis.luong@reactron.dev</a>
-| <a href="https://www.linkedin.com/in/jarvisluong/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/jarvisluong/">https://www.linkedin.com/in/jarvisluong/</a>
 </div>
 
 
