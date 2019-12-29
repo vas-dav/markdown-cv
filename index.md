@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Jarvis Luong's CV
+title: Luong Dang Hai's CV
 ---
-# Jarvis Luong
+# Luong Dang Hai
 Senior DevOps Engineer, Mobile Developer, Web Developer 
 
 <div id="webaddress">
-<a href="mailto:jarvis.luong@reactron.dev">jarvis.luong@reactron.dev</a>
+<a href="mailto:jarvisluong@gmail.com">jarvisluong@gmail.com</a>
 | <a href="https://www.linkedin.com/in/jarvisluong/">LinkedIn</a>
 </div>
 
@@ -83,13 +83,22 @@ __International Vietnam Model United Nations__, Head of Front End Development
 
 - I was the lead member of the organization team, creating and maintaining the website
 
+## Miscellaneous
+
+`Oct 2018`
+
+__JunctionX Hanoi__, Judge/Representative for Bankify Ltd
+
+- I was in charged with creating and judging the challenges at JunctionX Hanoi 2019
+- The hackathon did not issue a certificate, however, here is the image of me being presented as a Judge: https://tinyurl.com/junctionxhanoi-hai-judge
+
+`Apr 2017`
+
+__Hackathon SAPSyke 2017__, Third-Position
+
+- The hackathon did not issue a certificate, however, here is the image of us winning the third-prize: https://tinyurl.com/sap-hackathon-hai-thirdprize
+
 ## Education
-
-`Aug 2019 - Now`
-
-__Tampere University__, Master's Degree
-
-- Major: Computer Software - Web & Cloud
 
 `Aug 2016 - May 2019`
 
@@ -99,17 +108,9 @@ __Tampere University__, Bachelor's Degree
 
 ## References
 
-__Tero Lappalainen__: Co-Founder, Bankify Ltd
+__Antti Tarakkamäki__: Co-Founder, Bankify Ltd
 
-- tero@bankify.io
-
-__Timo Lappalainen__: Co-Founder, True Diamonds Ltd
-
-- timo.lappalainen@truediamonds.fi
-
-__Mikko Virkkilä__: Co-Founder/CTO, Steerpath Ltd
-
-- mikko.virkkila@steerpath.com
+- antti@bankify.io
 
 __Nguyen Hoang Quang Trung__: Co-Founder/CEO, Reactron Technologies Ltd
 
