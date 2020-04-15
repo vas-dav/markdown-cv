@@ -48,20 +48,20 @@ __Steerpath Ltd__, Full-stack Consultant
 - Coach in-house developers with the React Native technology
 - Develop the cross-platform SDK from the native mobile SDKs.
 
+`Apr 2019 - Now`
+
+__react-navigation__, OSS Collaborator Team
+
+- react-navigation is the most widely-used navigation library used in React
+  Native applications. I am responsible for maintaining the documentation of the
+  library as well as making contributions to the library's source code.
+
 `Nov 2017 - Now`
 
 __Bankify Ltd__, Technical Lead / Lead DevOps Engineer
 
 - Creat, maintain the CI/CD pipeline for all of the microservices, using the Kubernetes tool across different cloud providers (Google Cloud and AWS)
 - Lead a full-stack development team to create cross-platform mobile applications, web applications.
-
-`Apr 2019 - Sep 2019`
-
-__react-navigation__, OSS Collaborator
-
-- react-navigation is the most widely-used navigation library used in React
-  Native applications. I am responsible for maintaining the documentation of the
-  library as well as making contributions to the library's source code.
 
 `Aug 2017 - Oct 2017`
 
