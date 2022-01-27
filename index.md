@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Jarvis Luong's CV
+title: Vasily Davydov's CV
 ---
-# Jarvis Luong
-Senior DevOps Engineer, Mobile Developer, Web Developer 
+# Vasily Davydov
+Software Developer Trainee 
 
 <div id="webaddress">
 <a href="mailto:jarvis.luong@reactron.dev">jarvis.luong@reactron.dev</a>
